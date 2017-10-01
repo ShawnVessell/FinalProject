@@ -31,9 +31,9 @@
     </div>
 
     
-    <div class="jumbotron" style="opacity: 0.4" >
-        <div class="container">
-            <iframe width="560" height="315" style="opacity:1.0" src="https://www.youtube.com/embed/hgKDu5pp_fU?rel=0" frameborder="0" allowfullscreen></iframe>
+    <div class="jumbotron" >
+        <div class="miframe">
+            <iframe width="560" height="315"  src="https://www.youtube.com/embed/hgKDu5pp_fU?rel=0" frameborder="0" allowfullscreen></iframe>
         </div>
      </div>
     
