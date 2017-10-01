@@ -1,0 +1,27 @@
+﻿body {
+    background-image: url('Images/wallpaper.jpg');
+}
+.ShawnsColumnStyle {
+    padding: 15px;
+    font-size: 12px;
+    min-height: 450px;
+    background: rgba(18, 17, 17, 0.40);
+    margin-bottom: 10px;
+    margin-top: 25px;
+    font-family: Calibri;
+    color: lightgrey;
+}
+.TabsLeft{
+    float:left;
+    tab-size: 4;
+    columns:100px;
+
+}
+
+.ModelStyle{
+    color:lightgrey;
+    opacity:0.5;
+}
+#jumbo{
+    background: rgba(200, 54, 54, 0.4);
+}
