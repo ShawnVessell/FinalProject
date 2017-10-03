@@ -70,6 +70,7 @@
                         <li><a runat="server" href="~/" style="margin-top:5px">Home</a></li>
                         <li><a runat="server" href="~/About" style="margin-top:5px">About</a></li>
                         <li><a runat="server" href="~/Contact" style="margin-top:5px">Contact</a></li>
+                        <li><a runat="server" style="margin-top:5px"</a>Login</li>
                     </ul>
                 </div>
             </div>
