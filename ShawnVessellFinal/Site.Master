@@ -51,7 +51,7 @@
         </asp:ScriptManager>
 
         <div class="navbar navbar-inverse navbar-fixed-top">
-             <img src="Images/self%202.jpg" class ="img-circle" style="float:left; margin-left: 5px; margin-top: 5px; margin-bottom: 5px"/>
+             <img id="profilepic" src="Images/self%202.jpg" class ="img-circle" style="float:left; margin-left: 5px; margin-top: 5px; margin-bottom: 5px"/>
             <a class="navbar-brand" runat="server" href="~/" style="margin-top:5px">Shawn Vessell</a>
             <div class="container">
                 
@@ -70,7 +70,6 @@
                         <li><a runat="server" href="~/" style="margin-top:5px">Home</a></li>
                         <li><a runat="server" href="~/About" style="margin-top:5px">About</a></li>
                         <li><a runat="server" href="~/Contact" style="margin-top:5px">Contact</a></li>
-                        <li><a runat="server" style="margin-top:5px"</a>Login</li>
                     </ul>
                 </div>
             </div>

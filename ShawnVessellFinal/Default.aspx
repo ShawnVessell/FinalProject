@@ -9,7 +9,9 @@
             });
         });
       </Script>
-     
+      <script>
+          document.getElementById("profilepic").src = "Images/self%202.jpg";
+    </script>
     <%--<div class="TabsLeft">
         <ul class="nav nav-tabs">
             <li><a data-toggle="tab" href="#1A">Section A</a></li>
